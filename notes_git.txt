@@ -4,3 +4,8 @@ staging area
 local repo
 remote repo
 stash
+
+
+Name-Ayush Samanta
+I woke up late today
+I want developer role only
